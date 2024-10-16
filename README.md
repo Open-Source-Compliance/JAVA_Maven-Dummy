@@ -1,3 +1,9 @@
+# JAVA-Maven-Dummy based on 
+https://github.com/jenkins-docs/simple-java-maven-app
+Demo-Case001 to test the impact of adding a dependency with a vulnerability.
+
+============================================
+
 # simple-java-maven-app
 
 This repository is for the
