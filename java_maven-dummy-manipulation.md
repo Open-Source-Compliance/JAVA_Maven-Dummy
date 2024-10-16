@@ -15,9 +15,9 @@ You merely need an editor.
         <type>pom</type>
     </dependency>
 5. save the file
-6. commit your changes
+6. commit your changes (sign-off)
 7. push the changes to the repository
-8. run a test with a SCA-tooling of your choice to check if the new dependency had to expected effect
+8. run a test with a SCA-tooling of your choice to check if the new dependency had the expected effect
 9. document the testcase/democase in the respective doc/... branch including the expected result
 
 
